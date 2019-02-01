@@ -2,4 +2,7 @@ from django.shortcuts import render
 
 # Create your views here.
 def index(request):
-	return "test"
+	return "test"'
+
+
+# githubdan edit eledim
